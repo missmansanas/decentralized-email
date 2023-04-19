@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/decentralized-email/static/css/main.c41bc826.css",
+    "main.js": "/decentralized-email/static/js/main.6e4abe39.js",
+    "static/js/787.218947d4.chunk.js": "/decentralized-email/static/js/787.218947d4.chunk.js",
+    "index.html": "/decentralized-email/index.html",
+    "main.c41bc826.css.map": "/decentralized-email/static/css/main.c41bc826.css.map",
+    "main.6e4abe39.js.map": "/decentralized-email/static/js/main.6e4abe39.js.map",
+    "787.218947d4.chunk.js.map": "/decentralized-email/static/js/787.218947d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c41bc826.css",
+    "static/js/main.6e4abe39.js"
+  ]
+}
