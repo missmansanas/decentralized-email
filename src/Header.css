@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid whitesmoke;
+    height: 70px;
+}
+
+/* styles for the header left section - title & menu icon */
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.header-title {
+    font-size: 18px !important;
+    font-weight: bold;
+    font-family: 'Open Sans';
+    color: gray !important;
+    padding-left: 8px;
+    text-transform: capitalize !important;
+    border-radius: 30px !important;
+}
+
+.header-title:hover {
+    background-color: whitesmoke !important;
+}
+
+/* styles for the header middle section - search input*/
+.header-middle {
+    display: flex;
+    flex: 0.7;
+    align-items: center;
+    background-color: #eaf1fb;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.header-middle > .MuiSvgIcon-root {
+    color: grey;
+}
+
+.header-middle > input {
+    border: none;
+    width: 100%;
+    /* padding: 4px; */
+    outline-width: 0;
+    font-size: medium;
+    background-color: transparent;
+}
+
+/* styles for the header right section - apps, notifs, avatar */
+.header-right {
+    display: flex;
+    align-items: center;
+    padding-right: 12px;
+}
+
